@@ -1,3 +1,14 @@
+This is the begining of a beautiful project for a hand-made, low fashion, small business website!
+All pictures in the project are from my clients so please do not reproduce it!
+
+The website is still in progress, but let me know if you have any tips for improvement.
+I am very excited in sharing this with you! 
+
+
+
+
+/***************** README from the creators of this beautiful template **********/
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
